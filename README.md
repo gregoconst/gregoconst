@@ -4,7 +4,7 @@
 
 - 🔭 Actualmente estoy puliendo este proyecto [Henry GameOver](https://github.com/gregoconst/Videogame-PI)
 
-- 👨‍💻 Mis proyectos están disponibles en [https://github.com/gregoconst](https://github.com/gregoconst)
+- 👨‍💻 Mis proyectos están disponibles [acá](https://github.com/gregoconst?tab=repositories)
 
 - 📫 Como contactarme **gregorio.constante12@gmail.com**
 
