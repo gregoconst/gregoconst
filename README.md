@@ -6,7 +6,7 @@
 
 - 👨‍💻 Mis proyectos están disponibles [acá](https://github.com/gregoconst?tab=repositories)
 
-- 📫 Como contactarme **gregorio.constante12@gmail.com**
+- 📫 Como contactarme: **gregorio.constante12@gmail.com**
 
 <h3 align="left">Conéctate conmigo:</h3>
 <p align="left">
