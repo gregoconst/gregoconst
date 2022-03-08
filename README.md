@@ -2,7 +2,7 @@
 
 <h3 align="center">Bienvenidos a mi perfil!! Soy Gregorio, desarrollador Full Stack de 24 años de Argentina 💻😁 Actualmente me encuentro buscando trabajo en el rubro luego de completar un bootcamp intensivo de +800 horas. Disfruto mucho el crear soluciones, sobre todo estudiando y aplicando las poderosas herramientas que nos da la tecnología, y me apasiona el poder hacerlo a través de aplicaciones web, entre otras.</h3>
 
-- 🔭 Actualmente estoy puliendo este proyecto: [Henry GameOver](https://github.com/gregoconst/Videogame-PI)
+- 🔭 Actualmente estoy trabajando este proyecto: [ExcursionAPP](https://github.com/LorenzoPodio/PG-Henry/tree/develop)
 
 - 👨‍💻 Mis proyectos están disponibles [acá](https://github.com/gregoconst?tab=repositories)
 
