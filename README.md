@@ -1,6 +1,6 @@
 <h1>Hola! 🙌</h1>
 
-<h3 align="center">Bienvenidos a mi perfil!! Soy Gregorio, desarrollador Full Stack de 24 años de Argentina 💻😁 Actualmente me encuentro buscando trabajo en el rubro luego de completar un bootcamp intensivo de +800 horas. Disfruto mucho el crear soluciones, sobre todo estudiando y aplicando las poderosas herramientas que nos da la tecnología, y me apasiona el poder hacerlo a través de aplicaciones web, entre otras.</h3>
+<h3 align="center">Bienvenidos a mi perfil!! Soy Gregorio, desarrollador Full Stack de 24 años de Argentina 💻😁. Disfruto mucho el crear soluciones, sobre todo estudiando y aplicando las poderosas herramientas que nos da la tecnología, y me apasiona el poder hacerlo a través de aplicaciones web, entre otras.</h3>
 
 - 🔭 Actualmente estoy trabajando este proyecto: [Stock System](https://github.com/gregoconst/LePietre)
 
