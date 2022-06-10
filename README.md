@@ -1,6 +1,6 @@
-<h1>Hola! 🙌</h1>
+<h1 align="center">Hola! 🙌</h1>
 
-<h3 align="center" Disfruto mucho el crear soluciones, sobre todo estudiando y aplicando las poderosas herramientas que nos da la tecnología, y me apasiona el poder hacerlo a través de aplicaciones web, entre otras.</h3>
+<h2 align="center" Disfruto mucho el crear soluciones, sobre todo estudiando y aplicando las poderosas herramientas que nos da la tecnología, y me apasiona el poder hacerlo a través de aplicaciones web, entre otras.</h2>
 
 - 🔭 Actualmente estoy trabajando este proyecto: [Stock System](https://github.com/gregoconst/LePietre)
 
