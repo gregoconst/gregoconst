@@ -2,7 +2,7 @@
 
 <h2 align="center" Disfruto mucho el crear soluciones, sobre todo estudiando y aplicando las poderosas herramientas que nos da la tecnología, y me apasiona el poder hacerlo a través de aplicaciones web, entre otras.</h2>
 
-- 🔭 Actualmente estoy trabajando este proyecto: [Stock System](https://github.com/gregoconst/LePietre)
+- 🔭 Actualmente estoy trabajando este proyecto: Lucaedu
 
 - 👨‍💻 Mis proyectos están disponibles [acá](https://github.com/gregoconst?tab=repositories)
 
