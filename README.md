@@ -2,7 +2,7 @@
 
 <h2 align="center" Disfruto mucho el crear soluciones, sobre todo estudiando y aplicando las poderosas herramientas que nos da la tecnología, y me apasiona el poder hacerlo a través de aplicaciones web, entre otras.</h2>
 
-- 🔭 Actualmente estoy trabajando en este proyecto: Lucaedu
+- 🔭 Actualmente estoy trabajando en varios proyectos!
 
 - 👨‍💻 Mis proyectos están disponibles [acá](https://github.com/gregoconst?tab=repositories)
 
